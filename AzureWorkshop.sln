@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{151D2E53-A2C4-4D7D-83FE-D05416EBD58E}") = "AzureWorkshop", "AzureWorkshop\AzureWorkshop.deployproj", "{3882F63E-C224-49C7-8247-3A553AE78371}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3882F63E-C224-49C7-8247-3A553AE78371}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3882F63E-C224-49C7-8247-3A553AE78371}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3882F63E-C224-49C7-8247-3A553AE78371}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3882F63E-C224-49C7-8247-3A553AE78371}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {871D351A-E5E2-48B5-BCA0-FE411A0B00C5}
+	EndGlobalSection
+EndGlobal
